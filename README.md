@@ -166,10 +166,4 @@ Cadence is a personal project focused on practicing and demonstrating:
 
 Cadence is primarily a personal learning and portfolio project. Suggestions, bug reports, and constructive feedback are welcome.
 
-## 📄 License
-
-The project license will be specified in the repository. If using the MIT License, include a `LICENSE` file before distributing the project under those terms.
-
----
-
 **Cadence — Build your rhythm. Stay consistent.**
